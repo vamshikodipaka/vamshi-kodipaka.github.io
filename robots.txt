@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://vamshi-kodipaka.github.io//sitemap.xml
